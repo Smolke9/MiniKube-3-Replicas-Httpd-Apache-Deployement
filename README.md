@@ -143,6 +143,10 @@ kubectl get pods
 kubectl describe deployment httpd-deployment
 kubectl get svc
 ```
+## 📸 Screenshot: 3 Replicas httpd Output
+
+![3 Replicas Output](3%20replicas%20httpd%20output.jpg)
+
 
 ---
 
